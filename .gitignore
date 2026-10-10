@@ -112,3 +112,12 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Scratch test tooling (local automation only, not part of the game)
+/Assets/Chest/ChestTestDriver.cs
+/Assets/Editor/Shot.cs
+/Assets/Editor/Probe.cs
+/Assets/Editor/PlayTest.cs
+
+# Local screenshot output from automated capture runs
+/Shots/
